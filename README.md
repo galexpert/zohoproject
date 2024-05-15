@@ -11,7 +11,7 @@
 
 скачиваем проект с ветки master
 
-$ git clone https://github.com/galexpert/test-service-np.git <имя_папки>
+$ git clone https://github.com/galexpert/zohoproject.git <имя_папки>
 
 создаем и подключаем БД на лкальном сервере
 
