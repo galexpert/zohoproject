@@ -1,18 +1,17 @@
 <template>
-    11111111111111
+    <zoho-form></zoho-form>
 </template>
 
 <script>
-   // import TestComponent from "./TestComponent.vue";
+    import zohoForm from "./zohoForm.vue";
     export default {
         name: "App",
 
         components: {
-            /*TestComponent: TestComponent,*/
-          /*  TestComponent*/
+          zohoForm
         },
         mounted() {
-            console.log('Component mounted.')
+           // console.log('Component mounted.')
         }
 
     }

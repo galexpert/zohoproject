@@ -12,7 +12,7 @@ export default defineConfig({
                 'resources/js/app.js',
                 'resources/js/main.js',
             ],
-            refresh: true,
+            refresh: ['resources/**'],
         }),
         vue(),
     ],
